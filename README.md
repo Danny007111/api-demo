@@ -3,6 +3,8 @@
 ## While building application I:
 *Ran apx to build React app
 *Edited "readMe" file
+*Created Containers and Components 
+*Modified Css
 
 # Getting Started with Create React App
 
