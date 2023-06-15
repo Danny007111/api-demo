@@ -1,6 +1,6 @@
 const Title = () => {
     return (
-        <h1>Title here!</h1>
+        <h1>Your pokemon is...</h1>
     )
 };
 

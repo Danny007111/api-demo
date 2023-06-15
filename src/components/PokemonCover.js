@@ -2,7 +2,7 @@ import React from "react";
 
 const PokemonCover = () => {
     return (
-        <h1>Hello World</h1>
+        <img width="100" height="200" src="./pokeball.jpg" alt="Pokemon img" />
     )
 };
 
