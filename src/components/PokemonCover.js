@@ -1,8 +1,11 @@
 import React from "react";
 
-const PokemonCover = () => {
+const PokemonCover = ({srcImg}) => {
+
+    
+
     return (
-        <img width="100" height="200" src="./pokeball.jpg" alt="Pokemon img" />
+        <img width="400" height="200" src = {srcImg} alt="Pokemon img" id="container"/>
     )
 };
 

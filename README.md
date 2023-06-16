@@ -1,17 +1,19 @@
 # api-demo
 ### `Which Pokemon are you?` -generator
 ## While building application I:
-*Ran apx to build React app
-*Edited "readMe" file
-*Created Containers and Components 
-*Modified Css
+*Ran apx to build React app.
+*Edited "readMe" file.
+*Created Containers and Components.
+*Modified Css.
 *Decide What was going to change when the button is pressed. 
 1 Button is generating a random number from 1 to 1281 to hold it in a variable.
 2 Update API to update the random number.
 *Find a form to update image src of pokemon.
-1 Update starting img src
+1 Update starting img src.
 2 Update ContinueButton to hold new image src. When button is pressed it reloads next Pokemon.
-
+*Need to modify Continue button and image possition (CSS).
+*Created default src.
+*Updated src with useState and changing its value.
 
 # Getting Started with Create React App 
 
